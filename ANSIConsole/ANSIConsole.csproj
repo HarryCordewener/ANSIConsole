@@ -3,7 +3,9 @@
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
     <Authors>Dotch</Authors>
-    <Company />
+		<Version>2.5.1</Version>
+		<NuGetVersion>2.5.1</NuGetVersion>
+		<AssemblyVersion>2.5.1</AssemblyVersion>
     <Description>Lightweight and flexible text formatter for creating beautiful console applications.</Description>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageProjectUrl>https://github.com/WilliamRagstad/ANSIConsole</PackageProjectUrl>
@@ -14,7 +16,6 @@
     <PackageTags>console, formatting, more, colors, ansi, ascii, lightweight, easy, .NET 8.0</PackageTags>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageId>ANSI.Console</PackageId>
-    <Version>2.5.1</Version>
   </PropertyGroup>
 
   <ItemGroup>
