@@ -1,6 +1,7 @@
 <div align="center">
     <img src="assets/logo_cropped.png" alt="ANSI Console" width="30%" />
     <h1><code>ANSI Console</code></h1>
+    <h2><code>This fork exists because I needed the capabilities minus the Windows Kernel references.</code></h2>
     <p>
         Lightweight and flexible text formatter<br>
         for creating <em>beautiful</em> console applications.
